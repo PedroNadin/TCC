@@ -1,0 +1,51 @@
+
+
+.TextoSobre{
+    padding-left: 10px;
+    margin-left: 10px;
+    
+}
+
+.historiaTexto{
+    font-size: 20px;
+    padding: 30px;
+   
+}
+
+.Texto2{
+    font-size: 20px;
+    padding: 30px;
+}
+
+.Missao{
+    font-size: 20px;
+    padding: 30px;
+
+}
+
+.Sobreh1{
+    margin-left: 30px;
+    color: white;
+    margin-bottom: -30px;
+}
+
+
+
+.localh2{
+    text-align: center;
+}
+
+@media screen and (max-width:760px){
+    .propaganda{
+        display: none;
+    }
+    .carousel{
+        margin-top: -80px;
+        margin-left: 18px;
+    }
+ 
+    .historiaTexto{
+        padding-top: 10px;
+    }
+    
+}
